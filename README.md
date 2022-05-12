@@ -1,2 +1,2 @@
 # Dice-Rolling
- personal project for some knowledge.
+The Dice generates a random number with python GUI.
